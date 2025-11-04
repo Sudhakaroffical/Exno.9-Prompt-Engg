@@ -1,6 +1,6 @@
 # Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
 
-# Date: 11/4/2025
+# Date: 4/11/2025
 # NAME : SUDHAKAR K
 # REG NO : 212222240107
 # Aim: To perform the Exploration of Prompting Techniques for Video Generation
